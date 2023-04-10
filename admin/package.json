@@ -52,6 +52,6 @@
     "tedious": "~2.2.4",
     "web3": "^0.20.7",
     "winston": "^2.4.0",
-    "winston-daily-rotate-file": "^1.7.2"
+    "winston-daily-rotate-file": "^4.7.1"
   }
 }
